@@ -3,76 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\iattendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\iattendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\attendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\attendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\iattendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\iattendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\repositories\\attendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\repositories\\attendeevisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\models\\attendeevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\models\\attendeevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\models\\attendeevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\models\\attendeevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\attendee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\attendee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E22594-BB60-4F93-B42F-5427C9217DFB}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|c:\\users\\raven\\onedrive\\desktop\\it_elective_2_midterm_exam_set8_albano_raven\\8_conferenceattendancechecking\\8_conferenceattendancechecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89DF238-9BBF-0DE1-B253-05A2ED1C2AE7}|8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking.csproj|solutionrelative:8_conferenceattendancechecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AttendeeVisit.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Models\\AttendeeVisit.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Models\\AttendeeVisit.cs",
@@ -94,25 +94,24 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Models\\AttendeeVisit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T02:05:43.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:05:43.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Controllers\\AccountController.cs",
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwFEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-08T02:11:07.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AttendeeController.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Controllers\\AttendeeController.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Controllers\\AttendeeController.cs",
@@ -120,12 +119,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Controllers\\AttendeeController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T02:11:53.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:11:53.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Controllers\\HomeController.cs",
@@ -133,25 +131,24 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T02:12:10.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:12:10.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AttendeeVisitRepository.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Repositories\\AttendeeVisitRepository.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Repositories\\AttendeeVisitRepository.cs",
               "ToolTip": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Repositories\\AttendeeVisitRepository.cs",
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Repositories\\AttendeeVisitRepository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwBQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-08T02:08:46.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAttendeeVisitRepository.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Repositories\\IAttendeeVisitRepository.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Repositories\\IAttendeeVisitRepository.cs",
@@ -164,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Repositories\\IUserRepository.cs",
@@ -177,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Repositories\\UserRepository.cs",
@@ -198,8 +195,7 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Models\\User.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T02:04:51.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:04:51.169Z"
             },
             {
               "$type": "Document",
@@ -211,8 +207,7 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:21:08.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:21:08.866Z"
             },
             {
               "$type": "Document",
@@ -224,12 +219,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T03:46:40.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T03:46:40.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Attendee\\Edit.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Edit.cshtml",
@@ -237,12 +231,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:21:57.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:21:57.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Attendee\\Details.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Details.cshtml",
@@ -250,12 +243,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:22:37.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:22:37.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Attendee\\Index.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Index.cshtml",
@@ -263,12 +255,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Attendee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:17:14.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:17:14.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Account\\Register.cshtml",
@@ -276,12 +267,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAQwDgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:13:41.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:13:41.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Shared\\_Layout.cshtml",
@@ -289,12 +279,11 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFoAAAAAAAAAAAAswH8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:12:32.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:12:32.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\raven\\OneDrive\\Desktop\\IT_ELECTIVE_2_MIDTERM_EXAM_SET8_Albano_Raven\\8_ConferenceAttendanceChecking\\8_ConferenceAttendanceChecking\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "8_ConferenceAttendanceChecking\\Views\\Account\\Login.cshtml",
@@ -302,8 +291,7 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T02:13:17.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:13:17.13Z"
             },
             {
               "$type": "Document",
@@ -315,8 +303,7 @@
               "RelativeToolTip": "8_ConferenceAttendanceChecking\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T02:09:40.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T02:09:40.534Z"
             }
           ]
         }
