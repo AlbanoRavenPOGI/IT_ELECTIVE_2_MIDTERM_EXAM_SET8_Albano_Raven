@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="py-4">
+    <div class="card-custom p-5 mb-4 text-center bg-white">
+        <div class="mb-3 text-primary">
+            <i class="bi bi-person-badge fs-1"></i>
+        </div>
+        <h2 class="fw-bold text-dark mb-2">Conference Attendance System</h2>
+        <p class="text-muted max-w-xl mx-auto mb-4" style="max-width: 600px;">
+            Streamlined check-in, real-time monitoring, and attendee departure logging for ongoing conference events.
+        </p>
+        <div class="d-flex justify-content-center gap-3">
+            <a asp-controller="Attendee" asp-action="Index" class="btn btn-primary px-4">
+                <i class="bi bi-list-check me-2"></i>View Monitoring List
+            </a>
+            <a asp-controller="Attendee" asp-action="Create" class="btn btn-outline-secondary px-4">
+                <i class="bi bi-person-plus me-2"></i>Check-In Attendee
+            </a>
+        </div>
+    </div>
+
+    <div class="row g-3">
+        <div class="col-md-4">
+            <div class="card-custom p-4 h-100">
+                <div class="text-primary mb-2">
+                    <i class="bi bi-box-arrow-in-right fs-4"></i>
+                </div>
+                <h6 class="fw-bold mb-1">Check-In Registration</h6>
+                <p class="text-muted small mb-0">Record ticket numbers, contact details, and organization info upon arrival.</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card-custom p-4 h-100">
+                <div class="text-primary mb-2">
+                    <i class="bi bi-search fs-4"></i>
+                </div>
+                <h6 class="fw-bold mb-1">Live Monitoring & Search</h6>
+                <p class="text-muted small mb-0">Filter attendees by ticket number, status, or organization instantly.</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card-custom p-4 h-100">
+                <div class="text-primary mb-2">
+                    <i class="bi bi-clock-history fs-4"></i>
+                </div>
+                <h6 class="fw-bold mb-1">Check-Out Logging</h6>
+                <p class="text-muted small mb-0">Log exact departure timestamps when attendees leave the event venue.</p>
+            </div>
+        </div>
+    </div>
+</div>

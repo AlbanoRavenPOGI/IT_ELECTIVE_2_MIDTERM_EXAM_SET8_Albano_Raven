@@ -1,0 +1,131 @@
+﻿@model IEnumerable<_8_ConferenceAttendanceChecking.Models.AttendeeVisit>
+@{
+    ViewData["Title"] = "Attendee Monitoring";
+}
+
+<div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center mb-4 gap-3">
+    <div>
+        <h3 class="fw-bold mb-1 text-dark">Attendee Monitoring</h3>
+        <p class="text-muted small mb-0">Track live event attendance and check-in status.</p>
+    </div>
+    <a asp-action="Create" class="btn btn-primary d-inline-flex align-items-center gap-2">
+        <i class="bi bi-person-plus-fill"></i>
+        <span>Register New Attendee</span>
+    </a>
+</div>
+
+<div class="card-custom p-3 mb-4">
+    <form asp-action="Index" method="get">
+        <div class="row g-2">
+            <div class="col-md-10">
+                <div class="input-group">
+                    <span class="input-group-text bg-white border-end-0 text-muted">
+                        <i class="bi bi-search"></i>
+                    </span>
+                    <input type="text" name="searchString" value="@ViewData["CurrentFilter"]"
+                           class="form-control border-start-0 ps-0"
+                           placeholder="Search ticket number, attendee name, company, or event..." />
+                </div>
+            </div>
+            <div class="col-md-2 d-flex gap-2">
+                <button type="submit" class="btn btn-secondary w-100">Search</button>
+                @if (!string.IsNullOrEmpty(ViewData["CurrentFilter"]?.ToString()))
+                {
+                    <a asp-action="Index" class="btn btn-outline-secondary" title="Reset filter">
+                        <i class="bi bi-x-lg"></i>
+                    </a>
+                }
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="card-custom overflow-hidden">
+    <div class="table-responsive">
+        <table class="table table-custom align-middle">
+            <thead>
+                <tr>
+                    <th>Ticket No.</th>
+                    <th>Attendee</th>
+                    <th>Organization / School</th>
+                    <th>Check-In</th>
+                    <th>Check-Out</th>
+                    <th>Status</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr>
+                        <td colspan="7" class="text-center py-4 text-muted">
+                            <i class="bi bi-inbox fs-3 d-block mb-2"></i>
+                            No attendee records found.
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <span class="fw-bold text-dark">@item.TicketNumber</span>
+                            </td>
+                            <td>
+                                <div class="fw-semibold">@item.FirstName @item.LastName</div>
+                                <div class="text-muted small">@item.Email</div>
+                            </td>
+                            <td>@item.Organization</td>
+                            <td>
+                                <small class="text-muted">@item.CheckInTime.ToString("MMM dd, yyyy")</small>
+                                <div>@item.CheckInTime.ToString("hh:mm tt")</div>
+                            </td>
+                            <td>
+                                @if (item.CheckOutTime.HasValue)
+                                {
+                                    <small class="text-muted">@item.CheckOutTime.Value.ToString("MMM dd, yyyy")</small>
+                                    <div>@item.CheckOutTime.Value.ToString("hh:mm tt")</div>
+                                }
+                                else
+                                {
+                                    <span class="text-muted small">—</span>
+                                }
+                            </td>
+                            <td>
+                                @if (item.Status == "Present")
+                                {
+                                    <span class="badge rounded-pill badge-status-present">Present</span>
+                                }
+                                else
+                                {
+                                    <span class="badge rounded-pill badge-status-left">Left Event</span>
+                                }
+                            </td>
+                            <td class="text-end">
+                                <div class="btn-group btn-group-sm" role="group">
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-secondary" title="View Details">
+                                        <i class="bi bi-eye"></i>
+                                    </a>
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary" title="Edit Record">
+                                        <i class="bi bi-pencil"></i>
+                                    </a>
+                                    @if (item.Status == "Present")
+                                    {
+                                        <form asp-action="Checkout" asp-route-id="@item.Id" method="post" class="d-inline">
+                                            <button type="submit" class="btn btn-outline-danger"
+                                                    onclick="return confirm('Record check-out time for @item.FirstName @item.LastName?');"
+                                                    title="Record Check-Out">
+                                                <i class="bi bi-box-arrow-right"></i>
+                                            </button>
+                                        </form>
+                                    }
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

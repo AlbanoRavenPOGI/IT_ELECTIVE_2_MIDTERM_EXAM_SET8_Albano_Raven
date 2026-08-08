@@ -1,0 +1,74 @@
+﻿@model _8_ConferenceAttendanceChecking.Models.AttendeeVisit
+@{
+    ViewData["Title"] = "Check-In Attendee";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="mb-3">
+            <a asp-action="Index" class="text-decoration-none text-muted small">
+                <i class="bi bi-arrow-left me-1"></i> Back to Monitoring List
+            </a>
+        </div>
+        <div class="card-custom p-4">
+            <h4 class="fw-bold mb-1">Attendee Registration</h4>
+            <p class="text-muted small mb-4">Enter arrival and ticket details for conference check-in.</p>
+
+            <form asp-action="Create" method="post">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label asp-for="TicketNumber" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="TicketNumber" class="form-control" placeholder="e.g. TKT-8841" />
+                        <span asp-validation-for="TicketNumber" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="EventName" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="EventName" class="form-control" placeholder="e.g. Midterm Tech Summit" />
+                        <span asp-validation-for="EventName" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="FirstName" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="LastName" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="Organization" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="Organization" class="form-control" placeholder="School or Company Name" />
+                        <span asp-validation-for="Organization" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="ContactNumber" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="ContactNumber" class="form-control" placeholder="09xxxxxxxxx" />
+                        <span asp-validation-for="ContactNumber" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-12">
+                        <label asp-for="Email" class="form-label fw-semibold small text-secondary"></label>
+                        <input asp-for="Email" class="form-control" placeholder="name@domain.com" />
+                        <span asp-validation-for="Email" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-12">
+                        <label asp-for="Notes" class="form-label fw-semibold small text-secondary"></label>
+                        <textarea asp-for="Notes" class="form-control" rows="3" placeholder="Optional notes (VIP status, special requirements...)"></textarea>
+                    </div>
+
+                    <div class="col-12 d-flex justify-content-end gap-2 mt-4">
+                        <a asp-action="Index" class="btn btn-light border">Cancel</a>
+                        <button type="submit" class="btn btn-primary">Complete Check-In</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
